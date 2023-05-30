@@ -1,9 +1,7 @@
----
+﻿---
+layout: article
 title: TanXifei Seewo System
-layout: post
-background: https://i.328888.xyz/2023/03/16/KvdtL.png
-subtitle: wow
-artist: artstation.com/antoinecollignon
+mathjax: true
 ---
 
 # TanXifei Seewo System V2.1 P2
